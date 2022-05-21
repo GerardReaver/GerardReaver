@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Data Analytics
 - 🌱 I’m currently learning Data Science at CodingDojo
 - 💞️ I’m looking to collaborate on Projects to build a portfolio and get my first job offer
-- 📫 How to reach me is through here, email, or instagram. 
+- 📫 You can reach me through here, LinkedIn, or Instagram. 
 
 <!---
 GerardReaver/GerardReaver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
