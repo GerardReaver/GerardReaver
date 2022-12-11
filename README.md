@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GerardReaver
-- 👀 I’m interested in Data Science and Data Analytics
-- 🌱 I’m currently learning Data Science at CodingDojo
-- 💞️ I’m looking to collaborate on Projects to build a portfolio
-- 📫 You can reach me through here, LinkedIn, or Instagram. 
+- 👀 I’m interested in learning more Python
+- 🌱 I’m currently working as a Data Scientist
+- 💞️ I’m looking to collaborate on Projects to build a portfolio for other opportunities
+- 📫 You can reach me through Github, LinkedIn, or Instagram. 
 
 <!---
 GerardReaver/GerardReaver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
