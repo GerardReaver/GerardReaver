@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GerardReaver
-- 👀 I’m interested in learning more Python
+- 👀 I’m interested in learning more Python, SQL, Tablau and Power Bi
 - 🌱 I’m currently working as a Data Scientist
 - 💞️ I’m looking to collaborate on Projects to build a portfolio for other opportunities
 - 📫 You can reach me through Github or LinkedIn.
