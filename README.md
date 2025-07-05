@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @GerardReaver
-- 👀 I’m interested in learning more Python, SQL, Tablau and Power Bi
-- 🌱 I’m currently working as a Data Scientist
-- 💞️ I’m looking to collaborate on Projects to build a portfolio
-- 📫 You can reach me through Github or LinkedIn.
-  
+# 👋 Hi, I'm Gerard
 
-<!---
-GerardReaver/GerardReaver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Crime Analysis Officer at the NYPD, passionate about using data to drive real-world impact in public safety and community outcomes.
+
+🔍 I specialize in **data analysis and visualization**, with experience working on crime trend analysis, geospatial insights, and operational reporting.
+
+## 🧠 Skills & Tools
+
+- **Programming & Query Languages**: Python, SQL, R, PostgreSQL, Google BigQuery  
+- **Libraries & Frameworks**: pandas, pandasql, matplotlib, seaborn  
+- **Data Visualization**: Tableau, folium, heatmaps  
+- **Workflow**: Data cleaning, feature engineering, analysis, storytelling
+
+## 📁 Projects
+
+I’m currently working on crime data projects that explore trends across Manhattan precincts using Python, SQL, and visualization tools. More projects and insights coming soon!
+
+## 📫 Connect with me
+
+Feel free to explore my repos and follow along as I continue to grow and share work in public health, policing, and data analytics.
