@@ -17,4 +17,4 @@ I’m currently working on crime data projects that explore trends across Manhat
 
 ## 📫 Connect with me
 
-Feel free to explore my repos and follow along as I continue to grow and share work in public health, policing, and data analytics.
+Feel free to explore my repos and follow along as I continue to grow and share work in policing, public health and data analytics.
